@@ -3,13 +3,13 @@ body{
 }
 
 .navbar{
-    background-color: #e15f41;
+    background-color: rgb(35, 0, 94);
 
 }
 
 #cabecalho .nav .nav-link.active {
     background-color: #fff;
-    color: #e15f41;
+    color: red;
 }
 
 #cabecalho .nav .nav-link, .navbar-brand, .navbar-brand:hover, .nav-cardapio .nav-link.active:hover{
@@ -17,7 +17,7 @@ body{
 }
 
 .title{
-    font-family: Pacifico, cursive;
+    font-family: "Bebas Neue", sans-serif;
 }
 
 .navbar-toggler{
@@ -25,7 +25,7 @@ body{
 }
 
 .text-colored{
-    color: #e15f41;
+    color: red;
 }
 
 #sobre, #cardapio{
@@ -33,12 +33,12 @@ body{
 }
 
 .nav-cardapio .nav-link.active, #contato button{
-    background-color: #e15f41;
+    background-color: red;
     color: #fff;
 }
 
 .nav-cardapio .nav-link:hover{
-    color: #e15f41;
+    color: red;
 }
 
 .social-links li{
